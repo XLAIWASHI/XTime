@@ -1,0 +1,16 @@
+.venv/
+.wheels/
+.tmp/
+.tmp2/
+.tmp3/
+.testwork/
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/work/
+data.json
+xtime.log
+xtime.log.*
+xtime.lock
+*.zip
