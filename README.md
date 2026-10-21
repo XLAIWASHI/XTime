@@ -4,25 +4,25 @@
 
 ## 项目展示
 
-**GIF 演示（预留）**
+**GIF 演示**
 
-<p align="center"><i>将演示 GIF 放到 docs/images/XTime-demo.gif 后，取消下方注释</i></p>
-
-<!--
 <p align="center">
-  <img src="docs/images/XTime-demo.gif" alt="XTime 演示" width="800">
+  <img src="docs/images/XTime.gif" alt="XTime 演示" width="800">
 </p>
--->
+
 
 **界面截图**
 
-<!-- 替换 docs/images/XTime-main.png 与 XTime-transparent.png 即可更新截图 -->
 <p align="center">
-  <img src="docs/images/XTime-main.png" alt="XTime 淡灰透明模式" width="800">
+  <img src="docs/images/界面截图.png" alt="XTime 界面截图1" width="800">
 </p>
 
 <p align="center">
-  <img src="docs/images/XTime-transparent.png" alt="XTime 纯透明模式" width="800">
+  <img src="docs/images/界面截图1.png" alt="XTime 界面截图2" width="800">
+</p>
+
+<p align="center">
+  <img src="docs/images/界面截图2.png" alt="XTime 界面截图3" width="800">
 </p>
 
 ## 功能特性
